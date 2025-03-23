@@ -24,6 +24,10 @@ Hi 👋, I'm Glenio Filho! A passionate QA Analyst in training from Brazil.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlenioFilho&show_icons=true&theme=dark)
 
 
+### Snake Game 🐍
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
