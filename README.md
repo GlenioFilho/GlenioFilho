@@ -8,7 +8,7 @@ Hi 👋, I'm Glenio Filho! A passionate QA Analyst in training from Brazil.
 
 💡 My goal is to contribute to international projects and collaborate with diverse teams to ensure software excellence.  
 
-📚 In my learning journey, I’ve been exploring tools like Selenium, Cypress, and Postman, as well as CI/CD practices with GitHub Actions and Jenkins.  
+📚 In my learning journey, I’ve been exploring tools like Postman, as well, practices with GitHub Actions .  
 
 📫 Let’s connect! Feel free to reach out to me here on GitHub or via email.  
 
@@ -26,7 +26,6 @@ Hi 👋, I'm Glenio Filho! A passionate QA Analyst in training from Brazil.
 ### Snake Game 🐍
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 
 <h2 align="left">🔥 Skills</h2>
 
