@@ -1,16 +1,15 @@
-## Hello World!👋
+Hello World! 👋
+Hi there! I’m Glenio Filho, a passionate QA Analyst in training from Brazil.
 
-Hi 👋, I'm Glenio Filho! A passionate QA Analyst in training from Brazil.  
+🌱 Currently, I’m enrolled in a QA Analyst Bootcamp, where I’m learning advanced testing methodologies, automation tools, and industry best practices.
 
-🌱 I’m currently enrolled in a QA Analyst Bootcamp, learning advanced testing methodologies, automation tools, and industry best practices.  
+🔭 I’m excited to kickstart my career in software quality assurance, with a strong focus on ensuring seamless user experiences and delivering high-quality products.
 
-🔭 I’m excited to begin my career in software quality assurance, with a strong focus on creating seamless user experiences and delivering high-quality products.  
+💡 My goal is to contribute to international projects and collaborate with diverse teams to achieve software excellence.
 
-💡 My goal is to contribute to international projects and collaborate with diverse teams to ensure software excellence.  
+📚 As part of my learning journey, I’ve been mastering tools like Jira, Postman, VSCode, PyCharm, Google Spreadsheets, and Android Studio, applying them to solve real-world testing challenges.
 
-📚 In my learning journey, I’ve been exploring tools like Postman, as well, practices with GitHub Actions .  
-
-📫 Let’s connect! Feel free to reach out to me here on GitHub or via email.  
+📫 Let’s connect! Feel free to reach out to me here on GitHub or via email. 
 
 ✨ Fun fact: I love solving problems and finding creative ways to break and improve software! 
 
