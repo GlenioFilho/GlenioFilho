@@ -98,7 +98,7 @@ If I'm not the most talented 🎨, I'll be the most hardworking 💪🔥.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" />
 </div>
 
-## 🦄 Habilidades e metodologias:  
+## Habilidades e metodologias:  
 
 ![Testes Manuais](https://img.shields.io/badge/-Testes_Manuais-333333?style=flat&logo=Testes_Manuais&logoColor=007396)
 ![Testes Automatizados](https://img.shields.io/badge/-Testes_Automatizados-333333?style=flat&logo=Testes_Automatizados&logoColor=007396)
