@@ -13,6 +13,8 @@ Hi there! I’m Glenio Filho, a passionate QA Analyst in training from Brazil.
 
 ✨ Fun fact: I love solving problems and finding creative ways to break and improve software! 
 
+If I'm not the most talented 🎨, I'll be the most hardworking 💪🔥.
+
 ### Connect with me 🌐
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filhoglenio@mail.com)
